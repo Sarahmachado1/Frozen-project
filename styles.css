@@ -1,6 +1,7 @@
 body {
     background-color:rgb(97, 170, 242);
-}
+} /* this is the backround color for the website page*/
+
 
 
 h1 {
@@ -8,7 +9,7 @@ h1 {
     color: cornsilk;
     text-shadow: gray 2px 2px;
     font-style:oblique;
-}
+} /* the h1 tag is the  same as h3 they are both white and shadowed */
 
 h3 {
     color: cornsilk;
@@ -18,14 +19,14 @@ h3 {
 
 #connecter {
     text-align: center;
-}
+} /* i added this id "connecter" to the links and h1 just to center these thing on my screen */
 
 p {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color:indigo;
     
     
-}
+} /* i added a color and a font to the paragraphs */
 
 img {
     float:inline-end;
@@ -33,19 +34,19 @@ img {
     height: 200px;
     border: 1px solid darkslateblue;
     border-radius: 4px;
-}
+} /* to all three images i added a size, border, and placement to them. that is why they are 200px, to the left and have a cruve to them */
 
 .fav {
     color:darkslateblue;
     font-size: larger;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
-}
+} /* i added the class tag "fav" on to the forum to ajust the color, size, and font of the element*/
 
 th {
     color: darkslateblue;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
+} /* this is to ajust the table */ 
 
 td{
     color: darkslateblue;
@@ -57,7 +58,7 @@ td{
     border: 1px solid darkslateblue;
     border-radius: 5px;
     background-color:rgb(191, 142, 223);
-}
+} /*  this portion helped me organize and add a border around the contents of the table*/
 
 .button{
   background-color: #aa0468;
@@ -68,13 +69,13 @@ td{
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 5px;
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
-}
+} /* this helped me achive desgin of the submit button. i attached the id to the submit line of code */
 
 ol {
    list-style-type:upper-roman;
    color: darkslateblue;
    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    
-}
+} /* i changed the numbers on my ordered list to roman numerals and changed the font and color to make the rest of the website  */
